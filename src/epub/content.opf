@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-22T16:06:31Z</dc:date>
+		<meta property="dcterms:modified">2025-10-22T16:06:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,18 +36,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">n50080622</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">The Sultan of the Congo, an allegorical representation of Louis XV of France, is granted a magical ring that permits him to compel speech from the vaginas of the women of his court about their amorous experiences, and his subsequent “trials” of the ring bring about both philosophical inquiry and scandal.</dc:description>
+		<dc:description id="description">The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Mangogul, Sultan of the Congo, finds himself increasingly bored with court life, and his favorite consort, Mirzoza, has run short of gallant narratives of court and city life to amuse him. Her advice that he apply to the genie Cucufa for a way to hear these untold stories results in his possession of a magical ring that compels the vagina of any women he aims it at to disclose its amorous history and entanglements regardless of its owner’s wishes, as well as granting its wearer invisibility when desired.&lt;/p&gt;
-			&lt;p&gt;Over the course of thirty “trials” of the ring Mangogul succeeds for a time in amusing himself, while also creating havoc at court with the consternation of the women he subjects to the ring’s compulsion and the confusion of their husbands and lovers. His continued use of the ring reveals his courtiers’ scandalous and fascinating sexual exploits and subjects them to a satirical scrutiny of their foibles and desires. Interleaved with the scandal, these disclosures also prompt philosophical discussions and speculation about humanity and religion, as well as theatrical and literary criticism.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/denis-diderot"&gt;Denis Diderot&lt;/a&gt; was a prominent philosophical and literary figure in France during the Age of Enlightenment, best known for his founding work as an editor and contributor to the &lt;i&gt;Encyclopédie&lt;/i&gt;, the first encyclopedia to feature many named contributors and a deliberately secular style, later suppressed by both the Catholic Church and the French state. His writing career previous to his editorship of the &lt;i&gt;Encyclopédie&lt;/i&gt; included works of translation and philosophy as well as his allegorical “libertine” novel, &lt;i&gt;The Indiscreet Jewels&lt;/i&gt;, written in the style of Crébillon fils’ &lt;i&gt;Le Sopha&lt;/i&gt;. Its sympathetic treatment of Mirzoza was intended to engage the support of Madame de Pompadour, at that time the favorite consort of King Louis XV, for the &lt;i&gt;Encyclopédie&lt;/i&gt; project.&lt;/p&gt;
+			&lt;p&gt;Mangogul, Sultan of the Congo (and an allegory for Louis XV), finds himself increasingly bored with court life, and his favorite consort, Mirzoza, has run short of gallant narratives of court and city life to amuse him. Her advice that he apply to the genie Cucufa for a way to hear new stories results in his possession of a magical ring that not only grants its wearer invisibility, but also compels any woman’s vagina to disclose its amorous history regardless of the woman’s wishes.&lt;/p&gt;
+			&lt;p&gt;Over the course of thirty “trials,” Mangogul succeeds for a time in amusing himself, while also creating havoc at court. His continued use of the ring reveals his courtiers’ scandalous and fascinating sexual exploits, and subjects them to a satirical scrutiny of their foibles and desires. Interleaved with the scandal, these disclosures also prompt philosophical discussions and speculation about humanity and religion, as well as theatrical and literary criticism.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Indiscreet Jewels&lt;/i&gt; is written in the style of Crébillon fils’ &lt;i&gt;Le Sopha&lt;/i&gt;; its sympathetic treatment of Mirzoza was intended to engage the support of Madame de Pompadour, at that time Louis XV’s favorite consort, for &lt;a href="https://standardebooks.org/ebooks/denis-diderot"&gt;Diderot’s&lt;/a&gt; &lt;i&gt;Encyclopédie&lt;/i&gt; project.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54672</dc:source>
 		<dc:source>https://archive.org/details/lesbijouxindisc01didegoog</dc:source>
 		<dc:source>https://archive.org/details/lesbijouxindisc00didegoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">79658</meta>
+		<meta property="se:reading-ease.flesch">67.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Indiscreet_Jewels</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/denis-diderot_the-indiscreet-jewels_r-freeman</meta>
 		<dc:creator id="author">Denis Diderot</dc:creator>
@@ -78,6 +78,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
