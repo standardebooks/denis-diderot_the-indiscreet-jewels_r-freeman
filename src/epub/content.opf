@@ -59,11 +59,10 @@
 		<meta property="file-as" refines="#translator">Freeman, R.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">James Ensor</dc:contributor>
-		<meta property="file-as" refines="#artist">Ensor, James</meta>
-		<meta property="se:name.person.full-name" refines="#artist">James Sidney Edouard</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/James_Ensor</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50082924</meta>
+		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
+		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055446</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
