@@ -57,8 +57,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">R. Freeman</dc:contributor>
 		<meta property="file-as" refines="#translator">Freeman, R.</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
 		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
