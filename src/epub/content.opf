@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman</dc:identifier>
 		<dc:date>2025-10-22T16:06:31Z</dc:date>
@@ -37,12 +37,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">n50080622</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Mangogul, Sultan of the Congo (and an allegory for Louis XV), finds himself increasingly bored with court life, and his favorite consort, Mirzoza, has run short of gallant narratives of court and city life to amuse him. Her advice that he apply to the genie Cucufa for a way to hear new stories results in his possession of a magical ring that not only grants its wearer invisibility, but also compels any woman’s vagina to disclose its amorous history regardless of the woman’s wishes.&lt;/p&gt;
 			&lt;p&gt;Over the course of thirty “trials,” Mangogul succeeds for a time in amusing himself, while also creating havoc at court. His continued use of the ring reveals his courtiers’ scandalous and fascinating sexual exploits, and subjects them to a satirical scrutiny of their foibles and desires. Interleaved with the scandal, these disclosures also prompt philosophical discussions and speculation about humanity and religion, as well as theatrical and literary criticism.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Indiscreet Jewels&lt;/i&gt; is written in the style of Crébillon fils’ &lt;i&gt;Le Sopha&lt;/i&gt;; its sympathetic treatment of Mirzoza was intended to engage the support of Madame de Pompadour, at that time Louis XV’s favorite consort, for &lt;a href="https://standardebooks.org/ebooks/denis-diderot"&gt;Diderot’s&lt;/a&gt; &lt;i&gt;Encyclopédie&lt;/i&gt; project.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54672</dc:source>
 		<dc:source>https://archive.org/details/lesbijouxindisc01didegoog</dc:source>
