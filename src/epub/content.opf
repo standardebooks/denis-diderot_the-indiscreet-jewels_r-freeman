@@ -31,7 +31,7 @@
 		<dc:title id="title">The Indiscreet Jewels</dc:title>
 		<meta property="file-as" refines="#title">Indiscreet Jewels, The</meta>
 		<dc:subject id="subject-1">Erotic stories</dc:subject>
-		<dc:subject id="subject-2">Louis XV, King of France, 1710-1774 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Louis XV, King of France, 1710-1774--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85044708</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
